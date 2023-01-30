@@ -1,1 +1,1 @@
-hi git2
+hi git
